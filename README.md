@@ -1,2 +1,2 @@
-# netslix
-This is just a Netflix clone
+# netslix 🚀 
+This is just a Netflix 🔥 clone
