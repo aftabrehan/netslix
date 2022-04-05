@@ -1,4 +1,4 @@
-import stl from "../styles/App.module.css";
+import stl from "./Index.module.css";
 
 const App = () => {
   return (
