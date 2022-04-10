@@ -1,0 +1,15 @@
+@import "styles/color";
+
+.app {
+  text-align: left;
+  background-color: $black;
+  color: $white;
+
+  * {
+    margin: 0;
+  }
+
+  p {
+    font-size: 16px;
+  }
+}
