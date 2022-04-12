@@ -1,14 +1,12 @@
 @import "styles/color";
 
 .banner {
-  height: 448px;
   color: $white;
   object-fit: contain;
+  position: relative;
 }
 
 .bannerContents {
-  height: 230px;
-  margin-left: 50px;
   padding-top: 140px;
 }
 
@@ -33,7 +31,7 @@
   font-weight: 700;
   padding: 0.7rem 2.2rem;
   margin-right: 1rem;
-  background-color: $bannerButtonBackgroundHover;
+  background-color: $bannerButtonBackground;
   border-radius: 0.2vw;
   cursor: pointer;
   overflow: hidden;
