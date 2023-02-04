@@ -20,8 +20,11 @@
 .navLogo {
   width: 100px;
   position: fixed;
-  left: 20px;
+  top: -5px;
   object-fit: contain;
+  cursor: pointer;
+  transform: translateX(-200%) scale(0);
+  animation: bounce 0.25s ease-in-out forwards 1.5s;
 }
 
 .navAvatar {
@@ -31,7 +34,14 @@
   object-fit: contain;
 }
 
-.fa {
-  color: $bannerButtonBackgroundHover;
-  font-size: 20px;
+@keyframes bounce {
+  0% {
+    transform: translateX(-200%) scale(0);
+  }
+  95% {
+    transform: translateX(20%) scale(1);
+  }
+  100% {
+    transform: translateX(0) scale(1);
+  }
 }
