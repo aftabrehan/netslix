@@ -48,7 +48,7 @@
     <text
        xml:space="preserve"
        id="text3816"
-       style="font-size:192px;line-height:1.25;font-family:Sawasdee;white-space:pre;shape-inside:url(#rect3818);-inkscape-font-specification:Sawasdee;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       style="font-size:192px;line-height:1.25;font-family:Roboto;white-space:pre;shape-inside:url(#rect3818);-inkscape-font-specification:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
        transform="translate(263.34737,20.722001)" />
     <path
        sodipodi:type="star"
@@ -132,10 +132,10 @@
          id="tspan9792"
          x="220.63513"
          y="287.62888"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:188.976px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold'"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:188.976px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff"
            id="tspan33150">net</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:188.976px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';fill:#ff0000"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:188.976px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ff0000"
            id="tspan20198">slix</tspan></tspan></text>
   </g>
 </svg>
