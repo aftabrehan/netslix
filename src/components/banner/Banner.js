@@ -18,6 +18,7 @@ function Banner() {
         ]
       );
 
+      console.log(movie?.backdrop_path);
       return request;
     }
     fetchData();

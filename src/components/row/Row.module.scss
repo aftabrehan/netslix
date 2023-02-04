@@ -1,15 +1,7 @@
 @import "styles/color";
 
 .row {
-  padding: 0 1rem;
-
-  h2 {
-    font-family: "Roboto", cursive;
-    opacity: 0;
-    transform: translateY(-100%);
-    animation: translateY 0.5s ease-in-out forwards;
-    cursor: default;
-  }
+  margin: 0 20px;
 }
 
 .rowPosters {
@@ -17,8 +9,6 @@
   padding: 20px;
   overflow-y: hidden;
   overflow-x: scroll;
-  transform: translateX(-120%);
-  animation: translateX 0.5s ease-in-out forwards 2.5s;
 
   &::-webkit-scrollbar {
     display: none;
@@ -31,7 +21,7 @@
   margin-right: 10px;
   object-fit: contain;
   border-radius: 0.2vw;
-  transition: transform 0.45s;
+  transition: transform 450ms;
   cursor: pointer;
 
   &:hover {
@@ -46,29 +36,5 @@
 
   &:hover {
     transform: scale(1.1);
-  }
-}
-
-@keyframes translateX {
-  0% {
-    transform: translateX(-120%);
-  }
-  100% {
-    transform: translateX(0);
-  }
-}
-
-@keyframes translateY {
-  0% {
-    transform: translateY(-100%);
-    opacity: 0;
-  }
-  75% {
-    transform: translateY(0);
-    opacity: 0.5;
-  }
-  100% {
-    transform: translateY(0);
-    opacity: 1;
   }
 }
