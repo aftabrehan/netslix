@@ -1,34 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Netflix Clone
 
-## Getting Started
+I created a clone of the Netflix website UI using React for my first React project. Despite facing numerous bugs and spending a significant amount of time on it, I found the experience enjoyable and learned a great deal. Additionally, I gained knowledge in integrating API's through this project. This project is also mobile-responsive. Feel free to explore the source code.
 
-First, run the development server:
+| [View Project 🔥](https://aftabrehan.com/portfolio/netflix-clone) | [Live Preview 🚀](https://netslix.web.app) |
+| ----------------------------------------------------------------- | ------------------------------------------ |
 
-```bash
-npm run dev
-# or
-yarn dev
+### Preview
+
+<div>
+  <a href="https://aftabrehan.com/portfolio/netflix-clone">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/760778cf3b6149dca9c5c6a85752ddb5-with-play.gif">
+  </a>
+</div>
+
+|                                                                                                    The                                                                                                     |                                                                                                  Project                                                                                                   |                                                                                                   Shots                                                                                                    |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <div><a href="https://aftabrehan.com/portfolio/netflix-clone"><img style="max-width:220px;" src="https://aftabrehan.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F1.ead245c3.png&w=1920&q=75"></a></div> | <div><a href="https://aftabrehan.com/portfolio/netflix-clone"><img style="max-width:220px;" src="https://aftabrehan.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F2.365f326d.png&w=1920&q=75"></a></div> | <div><a href="https://aftabrehan.com/portfolio/netflix-clone"><img style="max-width:220px;" src="https://aftabrehan.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F3.772ad2a8.png&w=1920&q=75"></a></div> |
+
+<hr />
+
+### Getting Started
+
+1. Clone the repository.
+
+```
+git clone https://github.com/aftabrehan/netslix
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Install the required dependencies.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```
+npm install
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+3. Start the development server.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```
+npm run dev
+```
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+> [!NOTE]
+> This project is created solely for portfolio purposes, and you are free to use it as you see fit.
