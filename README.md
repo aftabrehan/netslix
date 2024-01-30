@@ -24,7 +24,7 @@ I created a clone of the Netflix website UI using React for my first React proje
 1. Clone the repository.
 
 ```
-git clone https://github.com/aftabrehan/netslix
+git clone https://github.com/aftabrehan/netslix.git
 ```
 
 2. Install the required dependencies.
